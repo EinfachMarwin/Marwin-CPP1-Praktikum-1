@@ -8,6 +8,7 @@ int main()
     //additional task 1.1.
     char name[10];
 
+    //WAS GEHT AB
     printf("Wie heißt du?: ");
     scanf("%s", &name);
 
